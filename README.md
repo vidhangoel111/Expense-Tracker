@@ -41,7 +41,3 @@ This project intentionally avoids frameworks to strengthen core skills:
 🌐 Live Demo
 👉 Live App: https://vidhangoel111.github.io/Expense-Tracker/ 
 
-https://vidhangoel111.github.io/Expense-Tracker/
-JavaScript (ES6+)
-
-Browser LocalStorage
