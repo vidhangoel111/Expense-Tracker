@@ -3,6 +3,7 @@ A clean, fully functional Expense Tracker web app built using HTML, CSS and Java
 users track daily expenses with categories, dates, sorting, filtering, analytics, and persistent storage using LocalStorage.
 
 🚀 Features
+
 1)➕ Add expenses with title, amount, category & date
 2)📊 Total, Monthly & Weekly expense summary
 3)🔍 Search expenses by title or category
