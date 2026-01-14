@@ -5,19 +5,29 @@ users track daily expenses with categories, dates, sorting, filtering, analytics
 🚀 Features
 
 1)➕ Add expenses with title, amount, category & date
+
 2)📊 Total, Monthly & Weekly expense summary
+
 3)🔍 Search expenses by title or category
+
 4)🏷️ Filter by category
+
 5)🔃 Sort expenses:
     i) Newest → Oldest
     ii) Oldest → Newest
     iii) Highest → Lowest amount
     iv) Lowest → Highest amount
+    
 6)📈 Category-wise expense breakdown with percentage bars
+
 7)✏️ Edit existing expenses
+
 8)🗑️ Delete individual expenses
+
 9)🧹 Clear all expenses with confirmation
+
 10)💾 Data persists using LocalStorage
+
 11)📱 Fully responsive UI
 
 🧠 Concepts Used
