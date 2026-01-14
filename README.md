@@ -13,9 +13,13 @@ users track daily expenses with categories, dates, sorting, filtering, analytics
 4)🏷️ Filter by category
 
 5)🔃 Sort expenses:
+
     i) Newest → Oldest
+    
     ii) Oldest → Newest
+    
     iii) Highest → Lowest amount
+    
     iv) Lowest → Highest amount
     
 6)📈 Category-wise expense breakdown with percentage bars
